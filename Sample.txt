@@ -3,4 +3,7 @@ Welcome to GitHub
 Hello
 How are you
 
+Beans
+Pizza
+
 Thank you
